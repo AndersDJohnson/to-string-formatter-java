@@ -4,6 +4,7 @@ Format output of ToStringBuilder.
 Groovy code:
 ```groovy
 def out = ''
+def indent = 0
 text.split('').each {
     if (it == ',') {
         out += it + '\n' + ('\t'*indent)
