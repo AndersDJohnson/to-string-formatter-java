@@ -1,5 +1,6 @@
 # to-string-formatter-java
-Format output of ToStringBuilder.
+
+Idea on how to format the output of `ToStringBuilder`.
 
 Groovy code:
 ```groovy
